@@ -31,7 +31,11 @@ class SaveVkUsers
             file_put_contents($file, $contents);
             $uploaded_file = new UploadedFile($file, $info['basename']);
             $id_last = DB::table('media')->latest()->first('id');
-            $id_last1 = $id_last->id+1;
+            if (!isset($id_last->id)) {
+                $id_last1 = 1;
+            } else {
+                $id_last1 = $id_last->id+1;
+            }
             VkData::create([
                 'first_name' => $vkRecord['first_name'],
                 'last_name' => $vkRecord['last_name'],
