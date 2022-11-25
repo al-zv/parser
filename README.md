@@ -34,6 +34,10 @@ API Методы, которые нужно реализовать:
 
     git clone https://github.com/al-zv/parser.git
     
+Открыть папку проекта
+
+    cd parser
+
 Запустить проект через Docker (Docker должен быть установлен и запущен)
 
     ./vendor/bin/sail up -d
