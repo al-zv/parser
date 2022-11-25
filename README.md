@@ -79,3 +79,6 @@ API Методы, которые нужно реализовать:
 ### <a name="5">5. Результат работы проекта</a> 
 
 <img width="963" alt="image" src="https://user-images.githubusercontent.com/63869857/203927419-09c8be34-3f21-4d0b-a056-b435599e6b1d.png">
+
+<img width="963" alt="Снимок экрана 2022-11-25 в 12 43 52" src="https://user-images.githubusercontent.com/63869857/203928488-8cd9bc7b-2b22-4962-8d75-6092fe03c13e.png">
+
