@@ -66,7 +66,7 @@ API Методы, которые нужно реализовать:
 
 ### <a name="4">4. Слайд как работает проект</a> 
 
-<img width="1233" alt="image" src="https://user-images.githubusercontent.com/63869857/203922447-3ba9017c-1020-4e6c-8e32-7a7398b5b342.png">
+<img width="1233" alt="image" src="https://user-images.githubusercontent.com/63869857/203923465-7f71c623-eacc-4a23-910b-69bf78920b6b.png">
 
 ### <a name="5">5. Результат работы проекта</a> 
 
